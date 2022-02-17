@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Adafruit KB2040-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Adafruit KB2040-eagle-import.kicad_sym")(options "")(descr ""))
+)
